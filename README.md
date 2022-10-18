@@ -1,4 +1,4 @@
-#1.	What are transistors?
+##1.	What are transistors?
 
 A Transistor is an Electric device that regulates the flow of Electric Current and Voltage or is defined as a semiconductor device that’s fundamentally built with three terminals for amplifying or switching electronic signals and electrical power purposes. 
 That has many functions, such as switching, amplifying, detecting, signal modulation, and more.  In almost all modern electronics, Transistors are the most important active components.
