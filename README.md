@@ -47,6 +47,7 @@ Digital certificates include the public key being certified, identifying informa
 
 •	TLS/SSL?
 Transport Layer Security (TLS) certificates—most commonly known as SSL, or digital certificates—are the foundation of a safe and secure internet. TLS/SSL certificates secure internet connections by encrypting data sent between your browser, the website you’re visiting, and the website server.
+
 •	who gives countries and service providers ip address?
  Internet Assigned Numbers Authority (IANA) is a standards organization that oversees global IP address allocation, autonomous system number allocation, root zone management in the Domain Name System (DNS), media types, and other Internet Protocol-related symbols and Internet numbers. 
 IANA delegates Public IP addresses to the RIRs (Regional Internet Registries) who, in turn, delegate them to Internet Service Providers (ISPs) and end-user organizations and charge a fee for the same. Currently, there are five RIRs in the world. AFRINIC for Africa Region; APNIC for Asia Pacific Region; ARIN for Canada, USA and some Caribbean Islands
@@ -54,6 +55,7 @@ There are a few organizations that allocate and manage IP addresses globally, an
 
 •	 DNS spoofing?
 DNS (Domain Name Service) spoofing is the process of poisoning entries on a DNS server to redirect a targeted user to a malicious website under attacker control.
+
 •	what is search engine optimization?
 Search engine optimization (SEO) is the process of increasing the quality and quantity of website traffic by increasing the visibility of a website or a web page to users of a web search engine.
 
