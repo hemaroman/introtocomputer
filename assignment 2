@@ -1,1 +1,18 @@
+1.	What is DNS (Domain Name System)?
+The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses.
+2.	http and https?
+HTTP (Hyper Text Transfer Protocol) is a popular as well as the fundamental protocol for data communication on the World Wide Web (WWW); typically between a web browser and the server which stores web files. Whereas HTTPS is the secure version of HTTP, where the ‘ S ‘ at the end stands for ‘ Secure ‘.
+3.	Digital certificate?
+ Digital certificate is a small computer file. It is used to establish a relation between both the user and his or her public key. A digital certificate contains two things, i.e. the name of the user and the phis or her public key. So that we can identify that the particular key belongs to the particular user.
+Digital certificates include the public key being certified, identifying information about the entity that owns the public key, metadata relating to the digital certificate and a digital signature of the public key the certificate issuer created.
 
+•	TLS/SSL?
+Transport Layer Security (TLS) certificates—most commonly known as SSL, or digital certificates—are the foundation of a safe and secure internet. TLS/SSL certificates secure internet connections by encrypting data sent between your browser, the website you’re visiting, and the website server.
+•	who gives countries and service providers ip address?
+ Internet Assigned Numbers Authority (IANA) is a standards organization that oversees global IP address allocation, autonomous system number allocation, root zone management in the Domain Name System (DNS), media types, and other Internet Protocol-related symbols and Internet numbers. 
+IANA delegates Public IP addresses to the RIRs (Regional Internet Registries) who, in turn, delegate them to Internet Service Providers (ISPs) and end-user organizations and charge a fee for the same. Currently, there are five RIRs in the world. AFRINIC for Africa Region; APNIC for Asia Pacific Region; ARIN for Canada, USA and some Caribbean Islands
+There are a few organizations that allocate and manage IP addresses globally, and they are: ICAAN (The Internet Corporation for Names & Numbers): ICANN manages supply of all IPv4 and IPv6 addresses as well as domain name system         ( DNS) and Root Servers.
+•	 DNS spoofing?
+DNS (Domain Name Service) spoofing is the process of poisoning entries on a DNS server to redirect a targeted user to a malicious website under attacker control.
+•	what is search engine optimization?
+Search engine optimization (SEO) is the process of increasing the quality and quantity of website traffic by increasing the visibility of a website or a web page to users of a web search engine.
