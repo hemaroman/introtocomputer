@@ -12,6 +12,7 @@ Parts of transistor
 
 Moore's law is the observation that the number of transistors in a dense integrated circuit (IC) doubles about every two years. 
 Moore's prediction has been used in the semiconductor industry to guide long-term planning and to set targets for research and development, thus functioning to some extent as a self-fulfilling prophecy. Advancements in digital electronics, such as the reduction in quality-adjusted microprocessor prices, the increase in memory capacity (RAM and flash), the improvement of sensors, and even the number and size of pixels in digital cameras, are strongly linked to Moore's law. These ongoing changes in digital electronics have been a driving force of technological and social change, productivity, and economic growth.
+
 #3.	Lambda calculus?
 Lambda calculus (λ-calculus) is a formal system in mathematical logic for expressing computation based on function abstraction and application using variable binding and substitution. 
 It is a universal model of computation that can be used to simulate any Turing machine.  It was introduced by the mathematician Alonzo Church in the 1930s as part of his research into the foundations of mathematics. 
