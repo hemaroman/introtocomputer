@@ -24,6 +24,7 @@ How Does a Computer Work?
 A computer processes the input to produce the desired output, but how does a machine outperform the human brain?
 Conventional computers don't try to mimic the human brain. Instead, they run commands sequentially, with data constantly moving from input and memory to the device's processor. Neuromorphic computers, on the other hand, process data at the same time, making them faster, energy-efficient, and closer to the structure of the human brain.
 Overall, a computer works in four steps:
+
 •	Input: Input is the data before processing. It comes from the mouse, keyboard, microphone, and other external sensors.
 
 •	Storage: The storage is how the computer retains input data. The hard drive is used for long-term and mass data storage while the data set for immediate processing is stored temporarily in the Random-Access Memory (RAM).
