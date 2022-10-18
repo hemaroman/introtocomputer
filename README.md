@@ -18,6 +18,7 @@ It is a universal model of computation that can be used to simulate any Turing m
 Until the 1960s when its relation to programming languages was clarified, the lambda calculus was only a formalism. Thanks to Richard Montague and other linguists' applications in the semantics of natural language, the lambda calculus has begun to enjoy a respectable place in both linguistics and computer science. 
 
 4.	How computers work? 
+5.	
 A computer is a programmable electronic device capable of processing information. Composed of hardware and software, computers operate on two levels: they receive data through an input route, either live or through a digital storage unit, and send out an output.
 How Does a Computer Work?
 A computer processes the input to produce the desired output, but how does a machine outperform the human brain?
