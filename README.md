@@ -1,4 +1,4 @@
-##1.	What are transistors?
+#1.	What are transistors?
 
 A Transistor is an Electric device that regulates the flow of Electric Current and Voltage or is defined as a semiconductor device that’s fundamentally built with three terminals for amplifying or switching electronic signals and electrical power purposes. 
 That has many functions, such as switching, amplifying, detecting, signal modulation, and more.  In almost all modern electronics, Transistors are the most important active components.
@@ -8,17 +8,17 @@ Parts of transistor
 •	Collector: The Transistor's positive lead is known as the collector.
 •	Emitter: The Transistor's emitter is the negative lead.
 
-#2.	 Moore's law?
+##2.	 Moore's law?
 
 Moore's law is the observation that the number of transistors in a dense integrated circuit (IC) doubles about every two years. 
 Moore's prediction has been used in the semiconductor industry to guide long-term planning and to set targets for research and development, thus functioning to some extent as a self-fulfilling prophecy. Advancements in digital electronics, such as the reduction in quality-adjusted microprocessor prices, the increase in memory capacity (RAM and flash), the improvement of sensors, and even the number and size of pixels in digital cameras, are strongly linked to Moore's law. These ongoing changes in digital electronics have been a driving force of technological and social change, productivity, and economic growth.
 
-#3.	Lambda calculus?
+###3.	Lambda calculus?
 Lambda calculus (λ-calculus) is a formal system in mathematical logic for expressing computation based on function abstraction and application using variable binding and substitution. 
 It is a universal model of computation that can be used to simulate any Turing machine.  It was introduced by the mathematician Alonzo Church in the 1930s as part of his research into the foundations of mathematics. 
 Until the 1960s when its relation to programming languages was clarified, the lambda calculus was only a formalism. Thanks to Richard Montague and other linguists' applications in the semantics of natural language, the lambda calculus has begun to enjoy a respectable place in both linguistics and computer science. 
 
-#4.	How computers work? 
+####4.	How computers work? 
 
 A computer is a programmable electronic device capable of processing information. Composed of hardware and software, computers operate on two levels: they receive data through an input route, either live or through a digital storage unit, and send out an output.
 How Does a Computer Work?
@@ -36,10 +36,10 @@ Overall, a computer works in four steps:
 
 
 
-1.	What is DNS (Domain Name System)?
+#####5. 	What is DNS (Domain Name System)?
 The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses.
 
-2.	http and https?
+######6.	http and https?
 HTTP (Hyper Text Transfer Protocol) is a popular as well as the fundamental protocol for data communication on the World Wide Web (WWW); typically between a web browser and the server which stores web files. Whereas HTTPS is the secure version of HTTP, where the ‘ S ‘ at the end stands for ‘ Secure ‘.
 3.	Digital certificate?
  Digital certificate is a small computer file. It is used to establish a relation between both the user and his or her public key. A digital certificate contains two things, i.e. the name of the user and the phis or her public key. So that we can identify that the particular key belongs to the particular user.
