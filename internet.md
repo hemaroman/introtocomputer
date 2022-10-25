@@ -1,0 +1,2 @@
+# How internet works?
+The Internet is a network of networks. It works by using a technique called packet switching, and by relying on standardized networking protocols that all computers can interpret. In networking, the data which is being transmitted through the internet is sent via small segments which are later translated into bits and the packets get routed to their endpoint (destination) through different networking devices i.e. routers or switches.
