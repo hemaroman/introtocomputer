@@ -27,7 +27,7 @@ public class Passengers {
         PassengerList[id] = PassengerName;
         System.out.println("The Passenger is updated successfully.");
     }
-    int TotalStudent (){
+    int Totalpassenger (){
         return PassengerList.length;
     }
 }
