@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class gradeCalculator1 {
@@ -7,24 +7,35 @@ public class gradeCalculator1 {
     static String courseList[];
     static double scoreList[];
 
-    public static void main (String[]args){
+    public static void main(String[] args) {
         addCourse();
-        addgrade();
+
 
     }
 
-    private static void addgrade() {
-        System.out.println("insert the score of the course grades ?");
-        int courseScore = scan.nextInt();
-        scoreList = new double[courseScore];
+    private static void showCourse() {
+
+
         for (int i = 0; i < courseList.length; i++) {
-            System.out.println("insert the score of the grades respectively ?");
-            String courseName = scan.next();
-            courseList[i] = courseName;
-            System.out.println("please insert for"+ Arrays.toString(courseList) +courseScore);
+            System.out.println(" the course you take are "+ courseList);
+
+        }
+         showCourse();
+
+    }
+
+    private static void addGrade() {
+
+
+        scoreList = new double[courseList.length];
+        for (int i = 0; i < courseList.length; i++) {
+            System.out.println("insert the score of the course " + courseList[i]);
+            double mark = scan.nextDouble();
+            scoreList[i] = mark;
 
 
         }
+        showCourseAndGrade(); 
     }
 
     private static void addCourse() {
@@ -36,6 +47,16 @@ public class gradeCalculator1 {
             System.out.println("please insert course name?");
             String courseName = scan.next();
             courseList[i] = courseName;
+
+        }
+        addGrade();
+
+    }
+
+    private static void showCourseAndGrade() {
+
+        for (int i = 0; i < courseList.length ; i++) {
+            System.out.println("this are the courses and grades "+ courseList[i] + " = "+ scoreList[i] + " you take");
 
         }
 
